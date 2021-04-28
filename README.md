@@ -1,17 +1,17 @@
 # ConferenceCarbonTracker
 Tracking the carbon emissions from scientific conferences.
 
-## How to add new conferences
+## How to add new conferences
 
-### Option 1: Travel Footprint Calculator
+#### Option 1: Travel Footprint Calculator
 
 Use the [Travel Footprint Calculator](https://travel-footprint-calculator.irap.omp.eu/) and check the box `add conference to ConferenceCarbonTracker`.
 
-### Option 2: Via ConferenceCarbonTracker.com
+#### Option 2: Via ConferenceCarbonTracker.com
 
 Use the `add conference` button and provide the data.
 
-### Option 3: Create a pull request
+#### Option 3: Create a pull request
 
 Create a pull request to this repository to add a file to `/conferences`, named as `shortName_year_randomString.JSON`, e.g. like `agu_2019_kQ1e6Iaa.JSON`. This JSON file should have at least the following fields
 
