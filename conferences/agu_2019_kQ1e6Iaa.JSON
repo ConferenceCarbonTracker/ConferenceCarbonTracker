@@ -1,0 +1,25 @@
+{
+    "shortName": "AGU",
+    "longName": "American Geophysical Union",
+    "website": "https://www.agu.org/Fall-Meeting-2019",
+    "date": {
+        "year": 2019,
+        "month": 12,
+        "day": 9,
+        "lengthInDays": 5
+    },  
+    "location": {
+        "city": "San Francisco",
+        "country": "USA"
+    },
+    "attendees": {
+        "total": 28000,
+        "virtual": 0,
+        "in-person": 28000
+    },
+    "carbonFootprint": {
+        "unit": "tCO2",
+        "emissions": 80000,
+        "reference": "https://www.nature.com/articles/d41586-020-02057-2"
+    }
+  }
