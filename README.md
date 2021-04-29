@@ -1,5 +1,5 @@
 # ConferenceCarbonTracker
-Tracking the carbon emissions from scientific conferences.
+Tracking the carbon emissions from conferences.
 
 ## How to add new conferences
 
