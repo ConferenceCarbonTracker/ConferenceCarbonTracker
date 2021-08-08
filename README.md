@@ -1,13 +1,13 @@
-# ConferenceCarbonTracker
+# ConferenceCarbonTracker 
 Tracking the carbon emissions from conferences.
 
 ## How to add new conferences
 
-#### Option 1: Travel Footprint Calculator
+#### Option 1: Travel Footprint Calculator (work in progress)
 
 Use the [Travel Footprint Calculator](https://travel-footprint-calculator.irap.omp.eu/) and check the box `add conference to ConferenceCarbonTracker`.
 
-#### Option 2: Via ConferenceCarbonTracker.com
+#### Option 2: Via ConferenceCarbonTracker.com (work in progress)
 
 Use the `add conference` button and provide the data.
 
